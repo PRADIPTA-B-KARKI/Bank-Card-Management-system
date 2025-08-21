@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Bank_GUI
+comment0.text=\r\n\ This\ is\ a\ public\ class\ Bank_GUI\ which\ implements\ ActionListener\ and\ contains\ multiple\ instance\ method.\r\n\ This\ class\ imports\ JFrame,\ JPanel,\ JLabel,\ JButton,\ JTextField,\ JComboBox,\ BorderFactory\ and\ JOptionPane\ from\ javax.swing\ package\ as\ well\ as\ Color,\ Font,\ event.ActionListener,\r\n\ event.ActionEvent\ from\ java.awt\ package\ and\ ArrayList\ from\ java.util\ package\r\n\ This\ class\ is\ used\ for\ making\ a\ graphics\ user\ interface\ of\ Bank_Card,\ Debit_Card\ and\ Credit_Card\ classes.\r\n\ @author\ (Pradipta\ Bahadur\ Karki)\r\n\ @version\ (4.2.0)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ This\ method\ is\ the\ main\ method\ of\ the\ class\ Bank_GUI.\ (String\ []\ args)\ is\ the\ parameter\ passed\ to\ it.\ This\ method\ helps\ us\ to\ call\ the\ BC_Frame\ method\ directly\r\n\ without\ creating\ its\ instance.\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ This\ method\ actionPerformed\ ()\ is\ responsible\ for\ event\ handling\ process\ of\ our\ GUI.\ It\ contains\ conditional\ statements\ which\ contains\ all\ the\ \r\n\ actions\ to\ be\ performed\ when\ different\ buttons\ are\ pressed.\ \r\n
+comment3.params=
+comment3.target=void\ home()
+comment4.params=
+comment4.target=void\ debit_card()
+comment5.params=
+comment5.target=void\ credit_card()
+numComments=6
